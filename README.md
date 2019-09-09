@@ -2,7 +2,7 @@
 This repository accompanies *Quantum Computing: An Applied Approach* by Jack D. Hidary (Springer, 2019).
 
 
-![Cover Image](cover.jpg)	
+![Cover image](https://images.springer.com/sgw/books/raw/9783030239213.tif)
 
 ##  About this book
 This book integrates the foundations of quantum computing with a hands-on coding approach to this emerging field; it is the first work to bring these strands together in an updated manner. This work is suitable for both academic coursework and corporate technical training.
